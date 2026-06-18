@@ -26,7 +26,7 @@
 
 Incorporating the popular ATM90E36A, this high-precision, poly-phase energy metering IC is designed for advanced power monitoring in residential, commercial, and industrial systems.
 
-By incorporating the powerful Espress S3 MCU, with it's Dual-core Tensilica Xtensa LX7 processor (up to 240 MHz), you are able to take advantage of it's built-in vector instruction sets to accelerate machine-learning math operations.
+By incorporating the powerful Espressif S3 MCU, with it's Dual-core Tensilica Xtensa LX7 processor (up to 240 MHz), you are able to take advantage of it's built-in vector instruction sets to accelerate machine-learning math operations.
 
 LLM and AI Integration TinyML & Offline AI capability by running quantized, lightweight models locally (e.g., TensorFlow Lite Micro) for offline tasks.
 
