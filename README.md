@@ -82,13 +82,13 @@ The full set of **IPEM S3-AI** features are not yet finalised, however, the top 
 	 - Wide Dynamic Range 6000:1
 	 - Supports 3-phase 4-wire, 3-phase 3-wire, 2-phase, split-phase systems and singles phases
 	 - High Accuracy Measuring active energy to within ±0.1% and reactive energy to ±0.2%
-	 - 
+	
  - **Ethernet (Dedicated SPI Port)**
 	 - -   Ethernet Controller with Full TCP/IP Stack
 	 - 
  - **RS-485 / DMX**
 	 - For local data gathering and interfacing
-	 - 
+	   
  - **DIN Mountable**
 
 ## Overview
