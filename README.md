@@ -1,13 +1,32 @@
-** IPEM S3-AI ESP32-S3 IoT Ethernet Mains Power Energy Monitor **
+## IPEM S3-AI ESP32-S3 IoT Ethernet Mains Power Energy Monitor
 
+**Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
+## Welcome to IPEM S3-AI (Preview)
+[![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
+
+[![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
+
+[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/discussions)
+
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
+
+![IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20S3-AI%20-%20Overview.png)
+
+## Updates
+-   26-06-17 - Preliminary Launch Information
 
 ------------
 
 ## **Purchase**
+
+* DitroniX Shop - You may also pre-order, and order, via the http://ditronix.net 
+
+* eBay - Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
+
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
 
-Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
+
 ## **Further Information**
 
 Additional information, and other technical details on this project, maybe found in the related repository pages.
