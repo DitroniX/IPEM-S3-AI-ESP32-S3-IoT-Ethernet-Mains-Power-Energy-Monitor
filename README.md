@@ -71,7 +71,7 @@ The  **IPEM S3-AI**  board can be used in a number of projects and installations
 	 - 2.4 GHz Wi-Fi (802.11 b/g/n up to 150 Mbps), Bluetooth®  and Bluetooth 5 Low Energy (LE), with long-range support
 	 - AI Acceleration vector instructions that accelerate neural network computing and signal processing workloads
 	 - Ultra-Low Power (ULP) Co-processor allows the module to remain in deep sleep while performing simple tasks, preserving battery life
-	 - 
+	   
  - **Microchip ATM90E36A** 
 	 - High-performance poly-phase energy metering
 	 - Wide Dynamic Range 6000:1
@@ -82,12 +82,13 @@ The  **IPEM S3-AI**  board can be used in a number of projects and installations
 	 -   W5500 - Ethernet Controller with Full TCP/IP Stack
 	 -   SI3402 - Power over Ethernet (PoE+ Isolated)
     
- - **RS-485 / DMX**
+ - **RS-485 / DMX / MODBUS**
 	 - CS48520AD - High-speed, half-duplex RS-485
 	 - For local data gathering and interfacing
+	 - For connection to other site equipment and sensors
 
  - **Real Time Clock**
-	 - DS3231SN - Accurate RTGC with Battery Backup
+	 - DS3231SN - Accurate RTC (with optional Battery Backup)
 	 
  - **MicroSD**
 	 - On-board MicroSD Holder (Board Underside)
