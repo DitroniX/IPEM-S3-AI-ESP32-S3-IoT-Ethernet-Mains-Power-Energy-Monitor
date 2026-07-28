@@ -7,6 +7,8 @@
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
 
+[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
+
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
