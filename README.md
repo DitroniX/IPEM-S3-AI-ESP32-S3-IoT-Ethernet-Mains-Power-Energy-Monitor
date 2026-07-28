@@ -18,8 +18,6 @@
 
 ### **What is IPEM S3-AI?**
 
-[](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor#what-is-epem)
-
 **IPEM S3-AI**  is an acronym for  **IoT Power Energy Monitor**
 
 **IPEM S3-AI**  is a compact and powerful STEM Community board which is designed for IoT monitoring of mains power circuits.
@@ -30,11 +28,9 @@ By incorporating the powerful Espressif S3 MCU, with it's Dual-core Tensilica Xt
 
 LLM and AI Integration TinyML & Offline AI capability by running quantized, lightweight models locally (e.g., TensorFlow Lite Micro) for offline tasks.
 
-**IPEM S3-AI** Also features a seperate dedicated SPI port for the Ethernet.
+**IPEM S3-AI** Also features a separate dedicated SPI port for the Ethernet.
 
 ### **What is a Power Energy Monitor?**
-
-[](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor#what-is-a-power-energy-monitor)
 
 A power energy monitor is a device that safely samples the AC voltage and current flow, from one, or more, electrical phases, and from this, derives a range of accurate mains power measurements which can then be used for smart metering, or energy monitoring purposes.
 
@@ -65,15 +61,14 @@ The  **IPEM S3-AI**  board can be used in a number of projects and installations
 
 ## Top Level Features
 
-The full set of **IPEM S3-AI** features are not yet finalised, however, the top level are:
-
  - **Espressif ESP32-S3-WROOM-1U-N16R8**
 	 - Xtensa® dual-core 32-bit LX7 microprocessor (Clock frequency up to 240 MHz)
+	 - ESP32-S3-WROOM-1U-N16R8
 	 - Edge AI and AIoT Computing Applications
 	 - Dedicated vector instructions designed to accelerate neural network (NN)
 	 - 16 MB Quad SPI Flash and 8 MB PSRAM (Pseudo Static RAM)
 	 - 512 KB SRAM and 384 KB ROM
-	 - 2.4 GHz Wi-Fi (802.11 b/g/n up to 150 Mbps) and Bluetooth® 5 (LE) with long-range support
+	 - 2.4 GHz Wi-Fi (802.11 b/g/n up to 150 Mbps), Bluetooth®  and Bluetooth 5 Low Energy (LE), with long-range support
 	 - AI Acceleration vector instructions that accelerate neural network computing and signal processing workloads
 	 - Ultra-Low Power (ULP) Co-processor allows the module to remain in deep sleep while performing simple tasks, preserving battery life
 	 - 
@@ -83,27 +78,46 @@ The full set of **IPEM S3-AI** features are not yet finalised, however, the top 
 	 - Supports 3-phase 4-wire, 3-phase 3-wire, 2-phase, split-phase systems and singles phases
 	 - High Accuracy Measuring active energy to within ±0.1% and reactive energy to ±0.2%
 	
- - **Ethernet (Dedicated SPI Port)**
-	 - -   Ethernet Controller with Full TCP/IP Stack
-	 - 
+ - **Ethernet (on Dedicated SPI Port)**
+	 -   W5500 - Ethernet Controller with Full TCP/IP Stack
+	 -   SI3402 - Power over Ethernet (PoE+ Isolated)
+    
  - **RS-485 / DMX**
+	 - CS48520AD - High-speed, half-duplex RS-485
 	 - For local data gathering and interfacing
+
+ - **Real Time Clock**
+	 - DS3231SN - Accurate RTGC with Battery Backup
+	 
+ - **MicroSD**
+	 - On-board MicroSD Holder (Board Underside)
+
+ - **OPTO Output**
+	 - Galvanically Isolated Output
+
+ - **ADS1115**
+	 - DC Voltage Sensing
+	 - 0-3V3 or 0-75V Inputs
+
+ - **Board Power**
+	 - USB C 5V
+	 - DC Input 5-20V
+	 - AC Input 8-20V
+	 - PoE 37 to 57V
 	   
  - **DIN Mountable**
+	 - External Interface (12W)
+	 - SPI Interface (6W)
 
 ## Overview
 
 ### **RS-485**
-
-[](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor#rs-485)
 
 To interfacing to other Smart Meters, Devices and Smart Batteries which have an RS-485 MODBUS interface, the  **IPEM S3-AI**  includes a standard industry interface which allows you to collect, or control, other devices on the RS-485 bus.
 
 This RS-485 interface could also be used to control local CCTV on remote installations, or even send data from the  **IPEM S3-AI**  board over a single twisted pair, up to around 1,200 meters (4,000 feet), in distance. Ideal for farms and remote installations.
 
 ### **Calibration**
-
-[](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor#calibration)
 
 The ATM90 series of monitor devices are proven for accuracy. The  **IPEM S3-AI**  core is the  [**ATM90E36A**](https://www.microchip.com/en-us/product/atm90e36a)  which is used around the world in power monitoring instruments that also need to measure voltage, current, THD, DFT and mean power.
 
@@ -146,6 +160,8 @@ The  **IPEM S3-AI**  is capable of monitoring a number of variations in energy m
 
 Data provided from the  **IPEM S3-AI**  can be extrapolated through your code in any way you wish, in order to easily integrate with your IoT Home Automation system, or Solar Installation monitor.
 
+Using the powerful ESP32-S3, you are also able to take advantage of AI features included with dual Xtensa LX7 cores, vector acceleration, and extensive PSRAM/Flash support.
+
 All software and code is open source, community based and allows you to develop and integrate as you wish.
 
 The main process typically used for publishing data (internally or externally), is via MQTT, or you could use other direct publishing routes such as to Domoticz, Zabbix or Home Assistant.
@@ -174,11 +190,11 @@ Development is primarily supported through Visual Studio Code (VSCode) and Ardui
 
 A range of libraries are already available which support the devices on the  **IPEM S3-AI**  such as the:
 
--   ESP32-s3
--   M90E36
+-   ESP32-S3 N16R8
+-   ATM90E36A
 -   W5500
 -   24C64
--   DS3231
+-   DS3231SN
 -   TMP102
 -   WS2812
 
