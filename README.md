@@ -204,6 +204,10 @@ This is a worldwide community project and is able to be integrated in so many sy
 
 
 ## Updates
+-   26-06-28 - IPEM S3-AI Proto board in Production
+-   26-06-27 - Schematics and Board Layout Complete
+-   26-07-20 - Feature set and Design Complete
+-   26-07-10 - BOM Component Selection 
 -   26-06-17 - Preliminary Launch Information
 
 ------------
