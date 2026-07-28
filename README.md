@@ -198,13 +198,14 @@ A range of libraries are already available which support the devices on the  **I
 -   TMP102
 -   WS2812
 
-Code support is available in my existing  [GitHub](https://github.com/DitroniX)  IPEM and FLiX repositories, with a specific core IPEM S3-AI [code](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/tree/main/Code)  repository being provided as the board evolves, together with a new  [FLeX](https://github.com/DitroniX/FLEX-DitroniX-Power-Energy-Monitor-Firmware)  test and bring up firmware, which is in development.
+Code support is available in my existing  [GitHub](https://github.com/DitroniX)  IPEM and FLiX repositories, with a specific core IPEM S3-AI [code](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/tree/main/Code)  repository being provided as the board evolves, together with a new FLiX test and bring up firmware, which is in development.
+
+Home Assistant is fully supported via ESPHome Firmware.
 
 This is a worldwide community project and is able to be integrated in so many systems.
 
-
-
 ## Updates
+-   26-06-28 - IPEM S3-AI Available for Pre-Ordering
 -   26-06-28 - IPEM S3-AI Proto board in Production
 -   26-06-27 - Schematics and Board Layout Complete
 -   26-07-20 - Feature set and Design Complete
