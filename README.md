@@ -2,7 +2,7 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-## Welcome to IPEM S3-AI (Preview)
+## Welcome to IPEM S3-AI
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
@@ -203,6 +203,7 @@ Code support is available in my existing  [GitHub](https://github.com/DitroniX) 
 This is a worldwide community project and is able to be integrated in so many systems.
 
 
+
 ## Updates
 -   26-06-28 - IPEM S3-AI Proto board in Production
 -   26-06-27 - Schematics and Board Layout Complete
@@ -213,6 +214,8 @@ This is a worldwide community project and is able to be integrated in so many sy
 ------------
 
 ## **Purchase**
+
+Availability for purchase (Back Order), in Shop.  Delivery scheduled August 2026
 
 * DitroniX Shop - You may also pre-order, and order, via the http://ditronix.net 
 
