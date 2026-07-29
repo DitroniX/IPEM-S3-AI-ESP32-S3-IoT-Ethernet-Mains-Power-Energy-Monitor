@@ -1,4 +1,4 @@
-## IPEM S3-AI ESP32-S3 IoT Ethernet Mains Power Energy Monitor
+## IPEM S3-AI ESP32-S3 ATM90E36A IoT Ethernet Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
