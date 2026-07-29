@@ -15,6 +15,7 @@
 -   ADC ADS1115
 -   Flexible Board Power (DC/AC/PoE)
 -   DIN Mountable with Interface Connectors
+  
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
 
