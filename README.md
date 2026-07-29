@@ -3,6 +3,19 @@
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
 ## Welcome to IPEM S3-AI
+
+-   Espressif ESP32-S3-WROOM-1U-N16R8
+-   Microchip (ATMEL) ATM90E36A
+-   Ethernet (on Dedicated SPI Port) W5500
+-   Ethernet PoE (Isolated) SI3402
+-   RS-485 (DMX/MODBUS) CS48520AD
+-   RTC DS3231SN
+-   MicroSD Socket
+-   Galvanically Isolated OPTO Output
+-   ADC ADS1115
+-   Flexible Board Power (DC/AC/PoE)
+-   DIN Mountable with Interface Connectors
+
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
