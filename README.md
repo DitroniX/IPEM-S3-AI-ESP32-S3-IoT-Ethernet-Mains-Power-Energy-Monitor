@@ -7,6 +7,8 @@
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
 
+[![ESPHome - Home Assistant Integrations](https://github.com/DitroniX/DitroniX/blob/main/Files/Home%20Assistant%20-ESPHome%20Integration.png?raw=true)](https://github.com/DitroniX/Home-Assistant-Dev)
+
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
@@ -71,7 +73,7 @@ The  **IPEM S3-AI**  board can be used in a number of projects and installations
 	 - 2.4 GHz Wi-Fi (802.11 b/g/n up to 150 Mbps), Bluetooth®  and Bluetooth 5 Low Energy (LE), with long-range support
 	 - AI Acceleration vector instructions that accelerate neural network computing and signal processing workloads
 	 - Ultra-Low Power (ULP) Co-processor allows the module to remain in deep sleep while performing simple tasks, preserving battery life
-	 - 
+	   
  - **Microchip ATM90E36A** 
 	 - High-performance poly-phase energy metering
 	 - Wide Dynamic Range 6000:1
@@ -82,12 +84,13 @@ The  **IPEM S3-AI**  board can be used in a number of projects and installations
 	 -   W5500 - Ethernet Controller with Full TCP/IP Stack
 	 -   SI3402 - Power over Ethernet (PoE+ Isolated)
     
- - **RS-485 / DMX**
+ - **RS-485 / DMX / MODBUS**
 	 - CS48520AD - High-speed, half-duplex RS-485
 	 - For local data gathering and interfacing
+	 - For connection to other site equipment and sensors
 
  - **Real Time Clock**
-	 - DS3231SN - Accurate RTGC with Battery Backup
+	 - DS3231SN - Accurate RTC (with optional Battery Backup)
 	 
  - **MicroSD**
 	 - On-board MicroSD Holder (Board Underside)
@@ -198,13 +201,14 @@ A range of libraries are already available which support the devices on the  **I
 -   TMP102
 -   WS2812
 
-Code support is available in my existing  [GitHub](https://github.com/DitroniX)  IPEM and FLiX repositories, with a specific core IPEM S3-AI [code](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/tree/main/Code)  repository being provided as the board evolves, together with a new  [FLeX](https://github.com/DitroniX/FLEX-DitroniX-Power-Energy-Monitor-Firmware)  test and bring up firmware, which is in development.
+Code support is available in my existing  [GitHub](https://github.com/DitroniX)  IPEM and FLiX repositories, with a specific core IPEM S3-AI [code](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/tree/main/Code)  repository being provided as the board evolves, together with a new FLiX test and bring up firmware, which is in development.
+
+Home Assistant is fully supported via ESPHome Firmware.
 
 This is a worldwide community project and is able to be integrated in so many systems.
 
-
-
 ## Updates
+-   26-06-28 - IPEM S3-AI Available for Pre-Ordering
 -   26-06-28 - IPEM S3-AI Proto board in Production
 -   26-06-27 - Schematics and Board Layout Complete
 -   26-07-20 - Feature set and Design Complete
