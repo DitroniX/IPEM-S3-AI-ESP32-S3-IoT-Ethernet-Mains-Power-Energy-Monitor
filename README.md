@@ -1,8 +1,22 @@
-## IPEM S3-AI ESP32-S3 IoT Ethernet Mains Power Energy Monitor
+## IPEM S3-AI ESP32-S3 ATM90E36A IoT Ethernet Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
 ## Welcome to IPEM S3-AI
+
+-   Espressif ESP32-S3-WROOM-1U-N16R8
+-   Microchip (ATMEL) ATM90E36A
+-   Ethernet (on Dedicated SPI Port) W5500
+-   Ethernet PoE (Isolated) SI3402
+-   RS-485 (DMX/MODBUS) CS48520AD
+-   RTC DS3231SN
+-   MicroSD Socket
+-   Galvanically Isolated OPTO Output
+-   ADC ADS1115
+-   Flexible Board Power (DC/AC/PoE)
+-   DIN Mountable with Interface Connectors
+  
+
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
@@ -11,7 +25,7 @@
 
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/discussions)
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/tree/main#updates)
 
 [![Compare DitroniX Mains Power IoT Energy Monitor Options](https://github.com/DitroniX/DitroniX/blob/main/Files/Compare%20DitroniX%20Energy%20Monitors.png?raw=true)](https://github.com/DitroniX/DitroniX/blob/main/Compare%20Mains%20Power%20Energy%20Monitors.md)
 
@@ -208,7 +222,9 @@ Home Assistant is fully supported via ESPHome Firmware.
 This is a worldwide community project and is able to be integrated in so many systems.
 
 ## Updates
--   26-06-28 - IPEM S3-AI Available for Pre-Ordering
+-   26-08-16 - Pre-Production Boards in test, in preperation for full production
+-   26-07-31 - Pre-Production Boards ordered
+-   26-06-28 - IPEM S3-AI Available for Pre-Ordering (Shipping August 2026)
 -   26-06-28 - IPEM S3-AI Proto board in Production
 -   26-06-27 - Schematics and Board Layout Complete
 -   26-07-20 - Feature set and Design Complete
@@ -219,7 +235,7 @@ This is a worldwide community project and is able to be integrated in so many sy
 
 ## **Purchase**
 
-Availability for purchase (Back Order), in Shop.  Delivery scheduled August 2026
+Availability for purchase (Pre-Order), in Shop.  Delivery scheduled late August 2026
 
 * DitroniX Shop - You may also pre-order, and order, via the http://ditronix.net 
 
