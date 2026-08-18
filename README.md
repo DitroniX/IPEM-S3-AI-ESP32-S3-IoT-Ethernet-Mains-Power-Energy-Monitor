@@ -15,8 +15,17 @@
 -   ADC ADS1115
 -   Flexible Board Power (DC/AC/PoE)
 -   DIN Mountable with Interface Connectors
-  
 
+## Additions to the IPEM family 
+-   The IPEM S3-Ai Expands the popular IPEM Mains Energy Monitors even further by including the powerful ESP32-S3.
+-   For Home Assistant (ESPHome), users, the Ethernet W5500 interface and ATM90E36A are now on separate SPI ports.
+-   For Power Analysis users, by incorporating the powerful Espressif S3 MCU, with it's Dual-core Tensilica Xtensa LX7 processor (up to 240 MHz), you are able to take advantage of it's built-in vector instruction sets to accelerate machine-learning math operations. LLM and AI -   -   Integration TinyML & Offline AI capability by running quantized, lightweight models locally (e.g., TensorFlow Lite Micro) for offline tasks.
+-   For remote users, the Ethernet with PoE enables the board to be powered separately from the local supply.
+-   The DS3231SN Real-Time-Clock, with optional battery backup, ensures any timestamps are accurate.
+-   A MicroSD card interface is included (under-board), for any special configurations and logging, where needed.
+  
+![IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20S3-A3%20PreProduction%20Top.jpg)  
+![IPEM S3-AI](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20S3-A3%20PreProduction%20Bottom.jpg)
 [![DitroniX WiKi Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki)
 
 [![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/IPEM-S3-AI-ESP32-S3-IoT-Ethernet-Mains-Power-Energy-Monitor/wiki/FAQ)
