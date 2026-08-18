@@ -222,6 +222,8 @@ Home Assistant is fully supported via ESPHome Firmware.
 This is a worldwide community project and is able to be integrated in so many systems.
 
 ## Updates
+-   26-08-16 - Pre-Production Boards in test, in preperation for full production
+-   26-07-31 - Pre-Production Boards ordered
 -   26-06-28 - IPEM S3-AI Available for Pre-Ordering (Shipping August 2026)
 -   26-06-28 - IPEM S3-AI Proto board in Production
 -   26-06-27 - Schematics and Board Layout Complete
@@ -233,7 +235,7 @@ This is a worldwide community project and is able to be integrated in so many sy
 
 ## **Purchase**
 
-Availability for purchase (Back Order), in Shop.  Delivery scheduled August 2026
+Availability for purchase (Pre-Order), in Shop.  Delivery scheduled late August 2026
 
 * DitroniX Shop - You may also pre-order, and order, via the http://ditronix.net 
 
