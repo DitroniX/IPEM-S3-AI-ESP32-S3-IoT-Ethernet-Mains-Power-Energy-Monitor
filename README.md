@@ -16,6 +16,9 @@
 -   Flexible Board Power (DC/AC/PoE)
 -   DIN Mountable with Interface Connectors
 
+### ATM90E32 Variant
+An ATM90E32AS version of **IPEM S3-I** could be provided, if required.   
+
 ## Additions to the IPEM family 
 -   The IPEM S3-Ai Expands the popular IPEM Mains Energy Monitors even further by including the powerful ESP32-S3.
 -   For Home Assistant (ESPHome), users, the Ethernet W5500 interface and ATM90E36A are now on separate SPI ports.
