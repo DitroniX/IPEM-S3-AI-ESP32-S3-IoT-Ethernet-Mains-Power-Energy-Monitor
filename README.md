@@ -234,6 +234,7 @@ Home Assistant is fully supported via ESPHome Firmware.
 This is a worldwide community project and is able to be integrated in so many systems.
 
 ## Updates
+-   26-09-12 - Finalising board in preparation for full production this month. 
 -   26-08-16 - Pre-Production Boards in test, in preperation for full production
 -   26-07-31 - Pre-Production Boards ordered
 -   26-06-28 - IPEM S3-AI Available for Pre-Ordering (Shipping August 2026)
